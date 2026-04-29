@@ -1,4 +1,12 @@
-# Social Media Investigation Hub
+## Challenge Info
+
+**Title:** Social Media Investigation Hub  
+**Category:** OSINT  
+**Difficulty:** Very Easy  
+**Description:**  
+This challenge consists of 9 questions related to a social media investigation. All answers must be gathered to form the final flag.
+
+## Solution
 
 Given 9 questions and I assume I have to answer all of the questions to get the flag
 
@@ -78,7 +86,10 @@ Pretty straightforward as well.
 
 CTF Solved. Flag found.
 
-### Flag
+## Flag
 
 HTB{alexmorgan_operationsocialstorm2024_february2024}
 
+## Comment
+
+Very easy OSINT challenge. Mostly straightforward platform mapping and basic information gathering.
