@@ -1,4 +1,4 @@
-# 🕵️ CTF Writeups & OSINT Research
+# 🕵️ My OSINT CTF Writeups
 
 Welcome to my repository!
 
