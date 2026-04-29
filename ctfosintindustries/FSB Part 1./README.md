@@ -38,7 +38,7 @@ And that's the flag
 
 ## Flag
 
-OSINT{**/**/1968}
+OSINT{1*/*2/1968}
 
 ✔ Temporal data identified  
 ✔ Information verified via OSINT techniques  
