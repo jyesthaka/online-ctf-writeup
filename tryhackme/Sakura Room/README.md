@@ -10,13 +10,13 @@ This challenge involves tracking an attacker across multiple platforms using OSI
 
 Here's the write up for Sakura Room on TryHackMe.
 
-## PART 1 - INTRODUCTION 
+### PART 1 - INTRODUCTION 
 
 We'll skip this part
 
 Answer: Let's Go!
 
-## PART 2 - TIP-OFF
+### PART 2 - TIP-OFF
 
 **Question: What username does the attacker go by?**
 
@@ -26,7 +26,7 @@ Given an image that can be opened in the browser. The first instinct was to view
 
 Answer: SakuraSnowAngelAiko
 
-## PART 3 - RECONNAISSANCE
+### PART 3 - RECONNAISSANCE
 
 **Question: What is the full email address used by the attacker?**
 
@@ -46,7 +46,7 @@ This is clearly the user's real name
 
 Answer: Aiko Abe
 
-## PART 4 - UNVEIL
+### PART 4 - UNVEIL
 
 **Qeustion: What cryptocurrency does the attacker own a cryptocurrency wallet for?**
 
@@ -80,7 +80,7 @@ We can simply just see that the user has exchanged in other forms of cryptocurre
 
 Answer: Tether
 
-## PART 5 - TAUNT
+### PART 5 - TAUNT
 
 **Question: What is the attacker's current Twitter handle?**
 
@@ -100,7 +100,7 @@ From here, we found that the SSID is DK1F-G and there is 1 result that shows up 
 
 Answer: 84:af:ec:34:fc:f8
 
-## PART 6 - HOMEBOUND
+### PART 6 - HOMEBOUND
 
 **Question: What airport is closest to the location the attacker shared a photo from prior to getting on their flight?**
 
