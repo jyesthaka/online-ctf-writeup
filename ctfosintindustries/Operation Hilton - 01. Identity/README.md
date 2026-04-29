@@ -1,8 +1,28 @@
-# OPERATION HILTON — 01 · IDENTITY
+## Challenge Info
 
-This challenge was pretty straightforward and easy. I had to find the full name of the shooter, his age, and his hometown. Format of the flag is OSINT{First_Middle_Last_Age_City}
+**Title:** Operation Hilton — 01 · Identity  
+**Category:** OSINT  
+**Difficulty:** Easy  
+**Description:**  
+BRIEFING
+20:36 ET. Washington Hilton, Connecticut Avenue NW. The annual White House Correspondents' Dinner is in full swing when the evacuation is triggered. Five to eight gunshots reported in the immediate vicinity of the perimeter. President Trump is extracted by the Secret Service. A suspect is apprehended on site.
 
-This challenge was provided with very useful sources such as this Tweet:
+You're the OSINT analyst on duty. The FBI has shared two photos of the seized equipment on social media. The press has only released a name and an age. It's up to you to reconstruct the file.
+
+Authorized sources: tweets @tacticalporn, @ippatel, Secret Service · MPDC · NBC · CBS · Reuters · AP · BBC press releases.
+
+Flag format: OSINT{...} — case sensitive, exact format required.
+
+TASK
+The suspect was identified by the DC Metropolitan Police Department.
+
+Provide his full name, age, and hometown.
+
+## Solution
+
+This challenge was pretty straightforward and easy. I had to find the full name of the shooter, his age, and his hometown.
+
+The challenge was provided with very useful sources such as this Tweet:
 
 <img width="626" height="755" alt="05f51e63-00ac-4b2a-a65f-d795d3cb51a4" src="https://github.com/user-attachments/assets/3af8aef5-1b70-45f4-b1b3-b9519ec7d03b" />
 
@@ -18,8 +38,10 @@ Next step is to find his age. In another article published by NBC News:
 
 It shows that he is 31. 
 
-### Flag
+## Flag
 
 OSINT{Cole_Tomas_Allen_31_Torrance}
+
+## Comment
 
 CTF Solved. Wasn't really that hard though. I hope the next one is just slightly tougher.
