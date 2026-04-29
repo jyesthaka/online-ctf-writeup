@@ -1,8 +1,28 @@
-# UK Suspect
+## Challenge Info
+
+**Title:** UK Suspect  
+**Category:** OSINT  
+**Points:** 10  
+**Description:**  
+Hello,
+
+A photo was taken, apparently somewhere in England, showing two suspects.
+
+Your mission is to determine: 1. The exact GPS coordinates where this photo was taken
+
+The coordinates must be provided in the following format: • Latitude in degrees North • Longitude in degrees West
+
+Example format: • 51.5074° N, 0.1278° W
+
+Flag format:
+
+OSINT{latitudeN_longitudeW}
+
+## Solution
 
 <img width="1320" height="1730" alt="IMG_6012" src="https://github.com/user-attachments/assets/c78a7998-f94d-428a-af4e-c21107c080ae" />
 
-This picture was given and the flaf format is the coordinates to this picture.
+This picture was given and the flag format is the coordinates to this picture.
 
 This is what I call an almost impossible challenge but I still tried it.
 
@@ -18,6 +38,10 @@ I confirmed that I was at the right spot because of the windows and the traffic 
 
 But up until now I still don't know where the EXACT coordinates are.
 
-### Flag
+## Flag
 
 Unsolved
+
+## Comment
+
+Very difficult geolocation challenge. The general location was identified correctly, but precise coordinate extraction from the image could not be determined.
