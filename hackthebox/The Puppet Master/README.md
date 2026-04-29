@@ -1,4 +1,12 @@
-# The Puppet Master
+## Challenge Info
+
+**Title:** The Puppet Master  
+**Category:** OSINT  
+**Difficulty:** Very Easy  
+**Description:**  
+This challenge involves analyzing an image of a military vehicle and gathering detailed information about it, including its type, manufacturer, service history, origin, and capacity.
+
+## Solution
 
 The objective is to find informations about the vehicle.
 
@@ -48,6 +56,10 @@ Still on Wikipedia
 
 Therefore, CTF solved and flag found.
 
-### Flag
+## Flag
 
 HTB{c0mb1n1ng_r34l_w0rld_4nd_s3lf_c0nt41n3d_OSINT!}
+
+## Comment
+
+Very straightforward challenge. Most answers could be obtained quickly using reverse image search and basic research.
