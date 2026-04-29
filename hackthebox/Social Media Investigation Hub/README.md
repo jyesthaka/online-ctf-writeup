@@ -4,7 +4,7 @@
 **Category:** OSINT  
 **Difficulty:** Very Easy  
 **Description:**  
-This challenge consists of 9 questions related to a social media investigation. All answers must be gathered to form the final flag.
+You've discovered Alex Morgan is connected to RivalTech and has been conducting fake review campaigns against TechFlow. Now you need to map Alex's complete digital footprint across social media platforms to understand the full scope of this operation and find evidence of coordination with other actors.
 
 ## Solution
 
