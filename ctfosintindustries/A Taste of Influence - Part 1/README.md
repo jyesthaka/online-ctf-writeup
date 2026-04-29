@@ -2,7 +2,7 @@
 
 **Title:** A Taste of Influence - Part 1  
 **Category:** OSINT  
-**Points:** Easy  
+**Points:** 15  
 **Description:** An individual active in the international gastronomy and hospitality industry has a public professional profile.  
 Investigators know that he attended a major gastronomic event a few years ago, but the name of the event is not directly stated.  
 Your task is to analyze the profile using open-source intelligence techniques and determine which gastronomic festival he attended.  
