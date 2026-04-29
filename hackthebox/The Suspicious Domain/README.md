@@ -1,4 +1,15 @@
-# The Suspicious Domain
+## Challenge Info
+
+**Title:** The Suspicious Domain  
+**Category:** OSINT  
+**Difficulty:** Very Easy  
+**Description:**  
+Following the discovery of the suspicious social media profile "TechReviewer2024", investigators have uncovered a review manipulation campaign targeting TechFlow. The domain "alexmorgan-reviews.net" appears to be central to this operation. Use DomainScope to investigate this domain and identify the key identifier linking it to the broader campaign infrastructure.
+
+:: Challenge Type :: Interactive Q&A Platform (6 questions + 3 correlation questions).
+
+:: How to Play :: (1) Click "Start Instance" and wait for the Docker container to spawn | (2) Open the given URL in your browser - this will take you to "DomainScope" | (3) The domain "alexmorgan-reviews.net" will be pre-loaded | (4) Explore the different tabs (WHOIS, DNS Records, Hosting, etc.) to gather intelligence | (5) Go to the "Investigation Challenge" tab (rightmost tab) | (6) Answer 6 questions about the domain | (7) Once you've answered all 6, you'll unlock the "Correlation Challenge" | (8) Finish the 3 extra correlation questions - the final flag will then show up on the page.
+## Solution
 
 Still on the very easy stage of HTB OSINT.
 
@@ -70,8 +81,12 @@ The DNS records shows 4 A records with 4 GitHub pages
 
 **Answer: 4**
 
-### Flag
+CTF Solved. Flag captured.
+
+## Flag
 
 HTB{alexmorgantempmailcom_20240120_morgantechreviewsllc}
 
-CTF Solved. Flag captured.
+## Comment
+
+Very easy challenge focused on basic WHOIS analysis, DNS records, and simple threat intelligence correlation.
