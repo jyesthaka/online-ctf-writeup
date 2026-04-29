@@ -31,7 +31,7 @@ This is a very odd way to rate something especially out of 25. So it has to be t
 
 ## Flag
 
-SKR[1997_10_25]
+SKR[1997_**_25]
 
 ## Comment
 
